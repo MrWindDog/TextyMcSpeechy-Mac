@@ -1,3 +1,5 @@
+# PORT IS STILL IN DEVELOPMENT
+
 # TextyMcSpeechy
 
 ## A workflow with convenience scripts for making any voice into a Piper text-to-speech (TTS) model.
